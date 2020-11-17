@@ -1,3 +1,5 @@
+[Home](../)
+
 # Team Members:
 1. Catacutan, Rico Daniel O.
 2. Colomer, Joash P.
