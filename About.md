@@ -5,5 +5,5 @@
 4. Lalis, Jullylla Marie M.
 5. Magallen,
 6. Marquez,
-7. Montaner, Tristan
+7. Montaner, Tristan Lee B.
 8. Palma,
