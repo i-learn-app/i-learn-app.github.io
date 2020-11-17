@@ -6,3 +6,5 @@ relative_links:
 include:
   - index.md
   - About.md
+
+theme: jekyll-theme-slate
