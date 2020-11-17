@@ -1,4 +1,4 @@
-[Home](../)
+[Home](./Home.md)
 
 # Team Members:
 1. Catacutan, Rico Daniel O.
