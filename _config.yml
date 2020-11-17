@@ -7,4 +7,4 @@ include:
   - index.md
   - About.md
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
