@@ -1,1 +1,1 @@
-# Vygotsky's (Marquez & Colomer)
+# Vygotsky's (Marquez)
