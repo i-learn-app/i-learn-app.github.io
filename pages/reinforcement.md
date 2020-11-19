@@ -1,1 +1,1 @@
-# Positive and Negative Reinforcement (Magallen)
+# Positive and Negative Reinforcement (Lalis)
