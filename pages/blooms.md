@@ -8,7 +8,7 @@
 > test and other evaluation of student learning.
 
 ###### Features
-1. Bookmark - the learner will be able to take notes and organize his/her ideas or
+1. The learner will be able to take notes and organize his/her ideas or
 write comparison relating and elaborating it is useful for the learner when he
 or she want to take notes in every lesson (Affective Domain: Organizing).
 
