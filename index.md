@@ -20,3 +20,6 @@ knowledge of the user.
 [Bruners](./pages/bruners.md)
 [Piagets](./pages/piagets.md)
 [Vygotskys](./pages/vygotskys.md)
+
+## Other Important Features
+[Ausubels](./pages/others.md)
