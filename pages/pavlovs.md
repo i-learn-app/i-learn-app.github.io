@@ -1,4 +1,4 @@
-# Pavlov's (Montaner)
+# Pavlov's 
 
 <img src="../Images/one-tap-login.png" width="300" height="600"/>
 
