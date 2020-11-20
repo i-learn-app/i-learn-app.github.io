@@ -21,5 +21,5 @@ knowledge of the user.
 [Piagets](./pages/piagets.md)
 [Vygotskys](./pages/vygotskys.md)
 
-## Other Important Features
-[Ausubels](./pages/others.md)
+## Other Important Features:
+[Other Important Features](./pages/others.md)
