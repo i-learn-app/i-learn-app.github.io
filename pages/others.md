@@ -1,3 +1,5 @@
+# Other Important Features
+
 <img src="../Images/one-tap-login.png" width="300" height="600"/>
 
 ###### Definition
