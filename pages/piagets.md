@@ -1,4 +1,4 @@
-# Piaget's Theory and Stages of Cognitive Development (Catacutan)
+# Piaget's Theory and Stages of Cognitive Development
 
 <img src="../Images/answers.png" width="300" height="600"/>
 
