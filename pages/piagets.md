@@ -1,4 +1,4 @@
-# Piaget's (Catacutan)
+# Piaget's Theory and Stages of Cognitive Development (Catacutan)
 *
 *
 Having an answer key after taking the quiz that can let users understand what are their mistakes and what could have been done right.
