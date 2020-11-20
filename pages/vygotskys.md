@@ -6,3 +6,7 @@
 
 
 **The user can learn a lot about the subject and can add up to their knowledge when they are going to use the reviewer that our application have, because in this feature they can choose any reviewer they wish to choose and can pause and play the video reviewer anytime and anywhere, they can also navigate this easily because this app can be used in their mobile devices, they can review while walking, they can review while having fun with their friends or family outside of their houses.**
+
+
+
+**The other feature of our app that is related to Vygotsky's theory is the "Dictionary Bot Reviewer" in this feature the users can search what word they want to search and the app will automatically provides answers that the users want and it can be easily navigate by the users because it is a friendly user feature and it won't confuse any user on what to do because, they will just type the word they want to be searched and answered.**
