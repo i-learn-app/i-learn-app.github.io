@@ -4,6 +4,10 @@
 
 [About Us](./pages/About.md)
 
+iLearn! is an application that allows users to learn by
+reviewing the notes then take a quiz to test the
+knowledge of the user.
+
 ## App's Features Exhibiting Behaviorism:
 [Skinners](./pages/skinners.md)
 [Pavlovs](./pages/pavlovs.md)
