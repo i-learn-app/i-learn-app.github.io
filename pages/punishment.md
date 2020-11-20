@@ -1,4 +1,4 @@
-# Punishment (Magallen)
+# Punishment
 
 
 ###### Definition
