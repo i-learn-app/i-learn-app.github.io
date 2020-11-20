@@ -1,4 +1,4 @@
-# Positive and Negative Reinforcement (Lalis)
+# Positive and Negative Reinforcement
 
 ## Positive Reinforcement
 
