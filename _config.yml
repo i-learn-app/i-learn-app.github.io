@@ -4,5 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
+  - index.html
+  - ReadMe.md
   - About.md
