@@ -1,4 +1,4 @@
-# Ausubel's (Colomer)
+# Ausubel's
 
 <img src="../Images/overview.png" width="300" height="600"/>
 
