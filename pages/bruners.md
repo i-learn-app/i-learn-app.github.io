@@ -1,4 +1,4 @@
-# Bruner's (Palma)
+# Bruner's
 
 In Bruner's theory, important outcomes include not just the concepts, categories, and problem-solving procedures invented previously by the culture
 The features of our app that has been related to this theory are:
