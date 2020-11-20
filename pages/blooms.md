@@ -8,6 +8,24 @@
 > test and other evaluation of student learning.
 
 ###### Features
+1. ![image info](../Images/bloom_feature_bookmark.png)
+> Bookmark - the learner will be able to take notes and organize his/her ideas or
+> write comparison relating and elaborating it is useful for the learner when he
+> or she want to take notes in every lesson (Affective Domain: Organizing)
+
+2. ![image info](../Images/bloom_feature_quiz1.png)
+![image info](../Images/bloom_feature_quiz2.png)
+> Having small quizzes at the end of each chapter or topic as evaluation.
+
+3. ![image info](../Images/bloom_feature_chapters.png)
+> Chapters and lessons the user can gain information and can recall this in the
+> quiz (Cognitive Domain: Knowledge)
+
+
+4. ![image info](../Images/bloom_feature_choose.png)
+> Can either choose reading, watching video, or listening to a podcast about the
+> lesson or topic.
+
 
 
 ## Biology (Lalis)
