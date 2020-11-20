@@ -1,4 +1,4 @@
-# Skinner's (Palma)
+# Skinner's
 
 <img src="../Images/leaderboard.png" width="300" height="600"/>
 
