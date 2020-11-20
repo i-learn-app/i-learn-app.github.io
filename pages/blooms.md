@@ -1,12 +1,14 @@
 # Bloom's
 
 ###### Definition
-Created by psychologist Dr. Benjamin Bloom in 1956.To promote higher forms
-of thinking in education, such as analyzing and evaluating concepts, processes,
-procedures, and principles, rather than just remembering facts (rote learning).
-It is most often used when designing educational, training, and learning processes.
+> Created by psychologist Dr. Benjamin Bloom in 1956.To promote higher forms
+> of thinking in education, such as analyzing and evaluating concepts, processes,
+> procedures, and principles, rather than just remembering facts (rote learning).
+> Educators usually used blooms to guide them in development assessments example
+> test and other evaluation of student learning.
 
 ###### Features
+
 
 ## Biology (Lalis)
 
