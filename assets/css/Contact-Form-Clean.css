@@ -88,3 +88,15 @@
   color: #fff;
 }
 
+@media (max-width:767px) {
+  iframe {
+    width: 25px;
+  }
+}
+
+@media (min-width:768px) {
+  iframe {
+    width: 50px;
+  }
+}
+
